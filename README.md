@@ -19,23 +19,27 @@ untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mam
 
 ## DLProjectHub6
 
-| **Nama**                                | **NPM**           | **Universitas**                                               |
-|:---------------------------------------:|:-----------------:|:--------------------------------------------------------------:|
-| Reza Putri Angga                        | 22083010006       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
-| Larasati                                | 22083010018       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
-| Muhammad Azkiya Akmal                   | 22083010084       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
-| Vira Amalia Zahrani                     | 22083010098       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
-| R. Taufik Utomo Iswanindra Kusuma       | 22083010108       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
+<div align="center">
+
+| **Nama** | **NPM** | **Universitas** |
+|:-------- |:--------|:----------------|
+</div>
+
+| Reza Putri Angga                  | 22083010006 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Larasati                          | 22083010018 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Muhammad Azkiya Akmal             | 22083010084 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Vira Amalia Zahrani               | 22083010098 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| R. Taufik Utomo Iswanindra Kusuma | 22083010108 | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 
 ## ✨ Key Features
 
-**🔹 1. Anime Face Generation (DCGAN)**  
+**1. Anime Face Generation (DCGAN)**  
 <p align="justify">
 Model menghasilkan gambar wajah anime beresolusi <b>64×64 px</b> dari latent noise acak menggunakan arsitektur DCGAN yang telah dioptimalkan.
 </p>
 
-**🔹 2. Random Search Hyperparameter Optimization**  
+**2. Random Search Hyperparameter Optimization**  
 <p align="justify">
 Mencari kombinasi hyperparameter terbaik untuk meningkatkan kualitas generasi gambar, meliputi:
 </p>
@@ -47,7 +51,7 @@ Mencari kombinasi hyperparameter terbaik untuk meningkatkan kualitas generasi ga
 Pendekatan ini membantu model mencapai proses pelatihan yang lebih stabil serta mengurangi risiko <b>mode collapse</b>.
 </p>
 
-**🔹 3. Stable Training Pipeline**  
+**3. Stable Training Pipeline**  
 <p align="justify">
 Proyek menyediakan pipeline pelatihan yang rapi dan terstruktur, mencakup:
 </p>
@@ -57,7 +61,7 @@ Proyek menyediakan pipeline pelatihan yang rapi dan terstruktur, mencakup:
 - Grid sampling otomatis  
 - Pembuatan GIF progres training  
 
-**🔹 4. Clean, Modular, Beginner-Friendly Notebook**  
+**4. Clean, Modular, Beginner-Friendly Notebook**  
 <p align="justify">
 Notebook dirancang agar mudah dipahami dan dipelajari.
 </p>

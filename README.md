@@ -19,17 +19,13 @@ untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mam
 
 ## DLProjectHub6
 
-<div align="center">
-
-| **Nama** | **NPM** | **Universitas** |
-|:-------- |:--------|:----------------|
-</div>
-
-| Reza Putri Angga                  | 22083010006 | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Larasati                          | 22083010018 | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Muhammad Azkiya Akmal             | 22083010084 | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Vira Amalia Zahrani               | 22083010098 | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| R. Taufik Utomo Iswanindra Kusuma | 22083010108 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| <div align="center"><b>Nama</b></div> | <div align="center"><b>NPM</b></div> | <div align="center"><b>Universitas</b></div> |
+|---------------------------------------|---------------------------------------|----------------------------------------------|
+| Reza Putri Angga                      | 22083010006                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Larasati                              | 22083010018                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Muhammad Azkiya Akmal                 | 22083010084                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Vira Amalia Zahrani                   | 22083010098                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| R. Taufik Utomo Iswanindra Kusuma     | 22083010108                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 
 ## ✨ Key Features

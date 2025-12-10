@@ -16,7 +16,6 @@ Proyek ini juga dilengkapi dengan <b>Random Search Hyperparameter Optimization</
 untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mampu menghasilkan gambar berkualitas.
 </p>
 
---
 
 ## DLProjectHub6
 
@@ -28,7 +27,6 @@ untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mam
 | Vira Amalia Zahrani                     | 22083010098       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
 | R. Taufik Utomo Iswanindra Kusuma       | 22083010108       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
 
---
 
 ## ✨ Key Features
 
@@ -64,4 +62,4 @@ Proyek menyediakan pipeline pelatihan yang rapi dan terstruktur, mencakup:
 Notebook dirancang agar mudah dipahami dan dipelajari.
 </p>
 
---
+

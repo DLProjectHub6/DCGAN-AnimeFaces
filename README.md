@@ -1,16 +1,24 @@
-
 ## Welcome To DCGAN AnimeFaces!
-### 🎨 Generate Anime Faces With Deep Convolutional Generative Adversarial Network (DCGAN)
+## 🎨 Generate Anime Faces With Deep Convolutional Generative Adversarial Network (DCGAN)
 
-<p align="center"> <img src="outputs/sample_banner.png" alt="DCGAN AnimeFaces Banner" width="85%"> </p> <p align="center">
+<p align="center">
+  <img src="outputs/sample_banner.png" alt="DCGAN AnimeFaces Banner" width="85%">
+</p>
 
-DCGAN AnimeFaces adalah proyek Deep Learning yang memanfaatkan **Deep Convolutional Generative Adversarial Network (DCGAN)** untuk menghasilkan wajah anime baru secara otomatis.
+<p align="justify">
+DCGAN AnimeFaces adalah proyek Deep Learning yang memanfaatkan 
+<b>Deep Convolutional Generative Adversarial Network (DCGAN)</b> 
+untuk menghasilkan wajah anime baru secara otomatis.
+</p>
 
-Proyek ini juga dilengkapi dengan **Random Search Hyperparameter Optimization** untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mampu menghasilkan gambar berkualitas.
+<p align="justify">
+Proyek ini juga dilengkapi dengan <b>Random Search Hyperparameter Optimization</b> 
+untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mampu menghasilkan gambar berkualitas.
+</p>
 
----
+--
 
-### DLProjectHub6
+## DLProjectHub6
 
 | **Nama**                                | **NPM**           | **Universitas**                                               |
 |:---------------------------------------:|:-----------------:|:--------------------------------------------------------------:|
@@ -20,32 +28,40 @@ Proyek ini juga dilengkapi dengan **Random Search Hyperparameter Optimization** 
 | Vira Amalia Zahrani                     | 22083010098       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
 | R. Taufik Utomo Iswanindra Kusuma       | 22083010108       | Universitas Pembagunan Nasional Veteran Jawa Timur            |
 
+--
 
----
+## ✨ Key Features
 
-### ✨ Key Features
+**🔹 1. Anime Face Generation (DCGAN)**  
+<p align="justify">
+Model menghasilkan gambar wajah anime beresolusi <b>64×64 px</b> dari latent noise acak menggunakan arsitektur DCGAN yang telah dioptimalkan.
+</p>
 
-**🔹 1. Anime Face Generation (DCGAN)**
-Model menghasilkan gambar wajah anime beresolusi **64×64 px** dari latent noise acak menggunakan arsitektur DCGAN yang telah dioptimalkan.
-
-**🔹 2. Random Search Hyperparameter Optimization**
+**🔹 2. Random Search Hyperparameter Optimization**  
+<p align="justify">
 Mencari kombinasi hyperparameter terbaik untuk meningkatkan kualitas generasi gambar, meliputi:
+</p>
 
 - Learning Rate  
 - Optimizer β1  
 
-Pendekatan ini membantu model mencapai proses pelatihan yang lebih stabil serta mengurangi risiko **mode collapse**.
+<p align="justify">
+Pendekatan ini membantu model mencapai proses pelatihan yang lebih stabil serta mengurangi risiko <b>mode collapse</b>.
+</p>
 
-
-**🔹 3. Stable Training Pipeline**
+**🔹 3. Stable Training Pipeline**  
+<p align="justify">
 Proyek menyediakan pipeline pelatihan yang rapi dan terstruktur, mencakup:
+</p>
 
 - Visualisasi tren loss  
 - Auto-checkpoint  
 - Grid sampling otomatis  
 - Pembuatan GIF progres training  
 
-**🔹 4. Clean, Modular, Beginner-Friendly Notebook**
+**🔹 4. Clean, Modular, Beginner-Friendly Notebook**  
+<p align="justify">
 Notebook dirancang agar mudah dipahami dan dipelajari.
+</p>
 
----
+--

@@ -72,6 +72,7 @@ Notebook dirancang agar mudah dipahami dan dipelajari.
 **1. Clone Repository**  
 
 git clone https://github.com/yourusername/DCGAN-AnimeFaces.git
+
 cd DCGAN-AnimeFaces
 
 **2. Install Dependencies Dari requirements.txt**  
@@ -81,7 +82,9 @@ pip install -r requirements.txt
 **3. Download Dataset**  
 
 pip install kaggle
+
 kaggle datasets download -d splcher/animefacedataset
+
 unzip animefacedataset.zip -d data/
 
 **4. Run Notebook**  
@@ -112,7 +115,6 @@ Jupyter Notebook atau Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
 │
 └── 📄 README.md
     Dokumentasi proyek dan petunjuk penggunaan.
-
 
 
 ## 👋 DLProjectHub6

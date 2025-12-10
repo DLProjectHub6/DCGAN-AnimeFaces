@@ -114,7 +114,7 @@ Jupyter Notebook atau Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
 │   Laporan akhir proyek dalam bentuk PDF.
 │
 └── 📄 README.md
-    Dokumentasi proyek dan petunjuk penggunaan.
+```
 
 
 ## 👋 DLProjectHub6

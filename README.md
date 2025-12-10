@@ -94,6 +94,7 @@ Jupyter Notebook atau Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
 
 
 ## 🗂️ Project Structure
+
 📁 DCGAN-AnimeFaces/
 │
 ├── 📁 data/

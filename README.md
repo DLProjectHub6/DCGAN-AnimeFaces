@@ -1,5 +1,5 @@
 ## Welcome To DCGAN AnimeFaces!
-## 🎨 Generate Anime Faces With Deep Convolutional Generative Adversarial Network (DCGAN)
+## Generate 𝓐𝓷𝓲𝓶𝓮 Faces With Deep Convolutional Generative Adversarial Network (DCGAN)
 
 <p align="center">
   <img src="outputs/sample_banner.png" alt="DCGAN AnimeFaces Banner" width="85%">
@@ -53,12 +53,9 @@ Notebook dirancang agar mudah dipahami dan dipelajari.
 
 
 ## 📂 Datasets 
-### Dataset:
 
-📘 **Dataset:**  
-https://www.kaggle.com/datasets/splcher/animefacedataset
+[**Dataset**](https://www.kaggle.com/datasets/splcher/animefacedataset)
 
----
 
 ## 🛠️ Languages And Tools
 
@@ -71,7 +68,7 @@ https://www.kaggle.com/datasets/splcher/animefacedataset
 </p>
 
 
-## DLProjectHub6
+## DLProjectHub6👋
 
 | <div align="center"><b>Nama</b></div> | <div align="center"><b>NPM</b></div> | <div align="center"><b>Universitas</b></div> |
 |---------------------------------------|---------------------------------------|----------------------------------------------|
@@ -80,4 +77,3 @@ https://www.kaggle.com/datasets/splcher/animefacedataset
 | Muhammad Azkiya Akmal                 | 22083010084                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
 | Vira Amalia Zahrani                   | 22083010098                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
 | R. Taufik Utomo Iswanindra Kusuma     | 22083010108                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
-

@@ -1,4 +1,20 @@
 ## Welcome To DCGAN AnimeFaces!
+
+
+## 👋 DLProjectHub6
+<div align="center">
+
+| **Nama** | **NPM** | **Universitas** |
+|:--------:|:-------:|:---------------:|
+| Reza Putri Angga | 22083010006 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Larasati | 22083010018 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Muhammad Azkiya Akmal | 22083010084 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| Vira Amalia Zahrani | 22083010098 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+| R. Taufik Utomo Iswanindra Kusuma | 22083010108 | Universitas Pembangunan Nasional Veteran Jawa Timur |
+
+</div>
+
+
 ## Generate 𝓐𝓷𝓲𝓶𝓮 Faces With Deep Convolutional Generative Adversarial Network (DCGAN)
 
 <p align="center">
@@ -115,14 +131,3 @@ Jupyter Notebook atau Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
 │
 └── 📄 README.md
 ```
-
-
-## 👋 DLProjectHub6
-
-| <div align="center"><b>Nama</b></div> | <div align="center"><b>NPM</b></div> | <div align="center"><b>Universitas</b></div> |
-|---------------------------------------|---------------------------------------|----------------------------------------------|
-| Reza Putri Angga                      | 22083010006                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Larasati                              | 22083010018                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Muhammad Azkiya Akmal                 | 22083010084                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| Vira Amalia Zahrani                   | 22083010098                           | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| R. Taufik Utomo Iswanindra Kusuma     | 22083010108                           | Universitas Pembangunan Nasional Veteran Jawa Timur |

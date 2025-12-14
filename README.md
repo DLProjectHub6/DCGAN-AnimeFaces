@@ -1,9 +1,9 @@
-## Welcome To DCGAN AnimeFaces!
+## ✦ Welcome To DCGAN AnimeFaces ✦
 
 
 ## 👋 DLProjectHub6
 
-Kontributor Proyek:
+Kontributor:
 
 <div align="center">
 
@@ -22,6 +22,8 @@ Kontributor Proyek:
 
 <p align="center">
   <img src="outputs/sample_banner.png" alt="DCGAN AnimeFaces Banner" width="85%">
+  <br>
+  <em>Siklus Pemodelan DCGAN AnimeFaces</em>
 </p>
 
 <p align="justify">
@@ -35,12 +37,18 @@ Proyek ini juga dilengkapi dengan <b>Random Search Hyperparameter Optimization</
 untuk menemukan konfigurasi training terbaik sehingga model lebih stabil dan mampu menghasilkan gambar berkualitas.
 </p>
 
+<p align="center">
+  <img src="outputs/hasil_generate.png" alt="Generate DCGAN AnimeFaces Banner" width="85%">
+  <br>
+  <em>Result Generate DCGAN AnimeFaces</em>
+</p>
+
 
 ## ✨ Key Features
 
 **1. Anime Face Generation (DCGAN)**  
 <p align="justify">
-Model menghasilkan gambar wajah anime beresolusi <b>64×64 px</b> dari latent noise acak menggunakan arsitektur DCGAN yang telah dioptimalkan.
+Model menghasilkan gambar wajah anime beresolusi <b>64×64 piksel</b> dari latent noise acak menggunakan arsitektur DCGAN yang telah dioptimalkan.
 </p>
 
 **2. Random Search Hyperparameter Optimization**  
@@ -71,20 +79,28 @@ Notebook dirancang agar mudah dipahami dan dipelajari.
 </p>
 
 
-## 📂 Datasets 
+## 🗂️ Project Structure
 
-[**Dataset**](https://www.kaggle.com/datasets/splcher/animefacedataset)
-
-
-## 🛠️ Languages And Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-121212?logo=github&logoColor=white&style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" height="28"/>
-</p>
+```text
+📁 DCGAN-AnimeFaces/
+│
+├── 📁 data/
+│   └── Dataset AnimeFaces 
+│
+├── 📁 outputs/
+│   └── Hasil Generate Pelatihan 
+│   
+├── 📄 PJBL_Kelompok 6_Deep Learning.ipynb
+│   └── Notebook Utama (Pelatihan & Eksperimen DCGAN)
+│
+├── 📄 requirements.txt
+│   └── Dependensi Proyek
+│
+├── 📄 Laporan_PJBL_Kelompok6_DeepLearning.pdf
+│   └── Laporan Akhir Proyek
+│
+└── 📄 README.md
+```
 
 
 ## 🚀 How To Run
@@ -100,37 +116,25 @@ pip install -r requirements.txt
 
 **3. Download Dataset**  
 
-pip install kaggle
-
 kaggle datasets download -d splcher/animefacedataset
-
-unzip animefacedataset.zip -d data/
 
 **4. Run Notebook**  
 
-Jupyter Notebook atau Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
+Google Collaboratory PJBL_Kelompok 6_Deep Learning.ipynb
 
 
-## 🗂️ Project Structure
+## 📂 Datasets 
 
-```text
-📁 DCGAN-AnimeFaces/
-│
-├── 📁 data/
-│   └── Dataset hasil download dari Kaggle (animefacedataset)
-│
-├── 📁 outputs/
-│   ├── gambar hasil training (generated images)
-│   └── model hasil training (jika disimpan)
-│
-├── 📄 PJBL_Kelompok 6_Deep Learning.ipynb
-│   Notebook utama yang berisi implementasi training DCGAN dan eksperimen.
-│
-├── 📄 requirements.txt
-│   Daftar dependencies Python yang dibutuhkan untuk menjalankan proyek.
-│
-├── 📄 Laporan_PJBL_Kelompok 6_Deep Learning.pdf
-│   Laporan akhir proyek dalam bentuk PDF.
-│
-└── 📄 README.md
-```
+[**Dataset**](https://www.kaggle.com/datasets/splcher/animefacedataset)
+
+
+## 🛠️ Languages And Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub-121212?logo=github&logoColor=white&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white&style=flat-square" height="28"/>
+</p>

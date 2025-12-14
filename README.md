@@ -96,7 +96,7 @@ Notebook dirancang agar mudah dipahami dan dipelajari.
 ├── 📄 requirements.txt
 │   └── Dependensi Proyek
 │
-├── 📄 Laporan_PJBL_Kelompok6_DeepLearning.pdf
+├── 📄 Laporan_PJBL_Kelompok 6_Deep Learning.pdf
 │   └── Laporan Akhir Proyek
 │
 └── 📄 README.md

@@ -1,4 +1,4 @@
-## ✦ Welcome To DCGAN AnimeFaces ✦
+# ✦ Welcome To DCGAN AnimeFaces ✦
 
 
 ## 👋 DLProjectHub6
@@ -88,7 +88,7 @@ Notebook dirancang agar mudah dipahami dan dipelajari.
 │   └── Dataset AnimeFaces 
 │
 ├── 📁 outputs/
-│   └── Hasil Generate Pelatihan 
+│   └── Hasil Generate 
 │   
 ├── 📄 PJBL_Kelompok 6_Deep Learning.ipynb
 │   └── Notebook Utama (Pelatihan & Eksperimen DCGAN)

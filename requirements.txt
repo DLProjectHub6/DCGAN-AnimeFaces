@@ -3,5 +3,3 @@ kagglehub
 matplotlib
 numpy
 pandas
-imageio
-tqdm
